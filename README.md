@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @RichardMaciel
-- 👀 I’m interested in piano, music, video-games and motorcycle ride
-- 🌱 I’m currently learning Python
-- 📫 https://www.linkedin.com/in/richard-maciel-54b665171/
+# Hi, I'm Richard Gabriel 👋
 
-<!---
-RichardMaciel/RichardMaciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Assistente de TI focado em **DevOps & Infraestrutura**. Tecnologo em Análise e Desenvolvimento de Sistemas pela UniRitter.
+
+### 🛠️ Tech Stack & Ferramentas
+- **DevOps & Containers:** Docker | Docker Compose | Portainer | Git
+- **Observabilidade:** Prometheus | Grafana | Glances
+- **Redes & Segurança:** UniFi | Pi-hole | CrowdSec | Tailscale | TCP/IP
+- **Sistemas Operacionais:** Linux (Debian, Ubuntu) | Windows Server
+
+### 📊 Projetos em Destaque
+- [Homelab](./): Documentação e configuração da minha infraestrutura pessoal rodando microsserviços containerizados, stack de monitoramento e serviços de rede.
+
+---
+📫 **Onde me encontrar:** [LinkedIn](https://www.linkedin.com/in/richard-silva-54b665171/) | Email: richardgabrielb31@gmail.com
